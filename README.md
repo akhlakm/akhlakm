@@ -1,6 +1,8 @@
 Akhlak Mahmood\
-PhD Student
+Postdoctoral Fellow
+Georgia Institute of Technology
 
+Ph.D. in Physics
 North Carolina State University
 
 
