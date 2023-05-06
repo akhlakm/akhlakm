@@ -43,7 +43,7 @@ Website: <a href="https://akhlakm.github.io">akhlakm.github.io</a>
 <a href="https://github.com/yingling-group/lammps-mspin">LAMMPS MSPIN</a>        - LAMMPS plugin for magnetic nanoparticles simulation with atomistic resolution  
 <a href="https://github.com/akhlakm/2D_Ising_Model">2D Ising Model</a>      - Two dimensional Ising model simulator in Python  
 <a href="https://github.com/akhlakm/Hybrid_Monte_Carlo">Hybrid Monte Carlo</a>  - Hybrid Monte Carlo method to study lennard jones fluid  
-<a href="https://github.com/akhlakm/CNN_LJ_PotE_Predict">LJ PotE</a>             - Prediction of the potential energy of 2D Lennard-Jones fluid  
+<!-- <a href="https://github.com/akhlakm/CNN_LJ_PotE_Predict">LJ PotE</a>             - Prediction of the potential energy of 2D Lennard-Jones fluid   -->
 
 <b>Tools and Utils</b>  
 <a href="https://github.com/akhlakm/ansible">Ansible</a>       - Ansible configurations to manage a homelab  
