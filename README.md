@@ -55,6 +55,6 @@ Website: <a href="https://akhlakm.github.io">akhlakm.github.io</a>
 <a href="https://github.com/akhlakm/GPR_Kernels">GPR Kernels</a>          - Analysis of the Gaussian Process Regression algorithm and its kernels  
 <a href="https://github.com/akhlakm/Causal_Inference">Causal Inference</a>     - Python codes to understand the effects of causal intervention and confounding  
 <a href="https://github.com/akhlakm/REU_GPR_Lecture_Code">REU Lecture</a>          - Codes and data on Gaussian Process Regression lecture (REU 2021, NCSU)  
-<a href="https://github.com/akhlakm/Computational_Physics_DU">Computation Physics</a>  - Codes of Computational Physics course, (DU Physics, 2016)  
+<a href="https://github.com/akhlakm/Computational_Physics_DU">Computation Physics</a>  - C++ codes of Computational Physics course (DU Physics, 2016)  
 
 </pre>
