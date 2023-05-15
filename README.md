@@ -23,7 +23,7 @@ Find me at
 </h2>
 
 <a href="https://www.linkedin.com/in/akhlakm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:amahmoo3@ncsu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/></a>
+<a href="mailto:akhlakm@gatech.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/></a>
 <br>
 Website: <a href="https://akhlakm.github.io">akhlakm.github.io</a>
 </div>
