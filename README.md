@@ -57,3 +57,6 @@ Website: <a href="https://akhlakm.github.io">akhlakm.github.io</a>
 <a href="https://github.com/akhlakm/REU_GPR_Lecture_Code">REU Lecture</a>           - Codes and data on Gaussian Process Regression lecture (REU 2021, NCSU)  
 <a href="https://github.com/akhlakm/Computational_Physics_DU">Computational Physics</a> - C++ codes of Computational Physics course (DU Physics, 2016)
 </pre>
+
+<!-- ![Top Langs](https://vercel-akhlakm.vercel.app/api/top-langs/?username=akhlakm&layout=compact) -->
+
