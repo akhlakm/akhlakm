@@ -48,7 +48,6 @@ Website: <a href="https://akhlakm.github.io">akhlakm.github.io</a>
 <b>Tools and Utils</b>  
 <a href="https://github.com/akhlakm/ansible">Ansible</a>               - Ansible configurations to manage a homelab  
 <a href="https://github.com/akhlakm/Snap_Shot">Snap Shot</a>             - Git style backup and snapshot utility for binary files  
-<a href="https://github.com/akhlakm/Home_Media_Server">Media Server</a>          - Plex like personal media server to serve on a LAN  
 <a href="https://github.com/akhlakm/Python_GDrive_CLI">GDrive CLI</a>            - Python client to selectively sync Google Drive directories  
 
 <b>Projects</b>  
